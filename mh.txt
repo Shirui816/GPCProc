@@ -1,0 +1,232 @@
+polymer_solvent_temperature_a_k
+Amylose_DMSO_20_0.820_0.0000397
+Amylose_Water_20_0.680_0.0001320
+Amylose_Formamide_20_0.670_0.0002260
+Amylose Propionate_THF_25_0.610_0.024800
+Amylose Acetate_THF_25_0.700_0.010800
+Amylose Butyrate_THF_25_0.700_0.011100
+Butyl Rubber_THF_25_0.750_0.000085
+Bun a-N-rubber_Acetone_25_0.640_0.0005000
+Bun a-N-rubber_Chloroform_25_0.680_0.0005400
+Cellulose Acetate_DMAc_25_0.600_0.001910
+Cellulose Acetate_DMSO_25_0.610_0.001710
+Cellulose Acetate_Water_25_0.600_0.000209
+Cellulose Diacetate_THF_25_0.688_0.051300
+Cellulose Diacetate_DMAc_25_0.738_0.000395
+Cellulose Diacetate_Acetone_25_0.616_0.001330
+Cellulose Diacetate_TFA_25_0.696_0.000527
+Cellulose Triacetate_TFA_25_0.706_0.000396
+Cellulose Triacetate_DMAc_25_0.750_0.000264
+Cellulose Triacetate_MeHCL2_20_0.7004_0.000247
+Cellulose Triacetate_Chloroform_30_0.900_0.000450
+Cellulose Triacetate_o-cresol_30_0.900_0.000615
+Cellulose Nitrate_THF_25_1.000_0.002500
+Cellulose Nitrate_Ethyl Acetate_30_1.010_0.000250
+Cellulose Tri nitrate_THF_25_0.830_0.000321
+Dextrans_0.2M NaNO3_45_0.5300_0.0007000
+Dextrans_0.1M NaNO3; 0.1% Et. Glycol_30_0.4000_0.0037000
+Dextrans_0.1M NaCl_30_0.4200_0.0024300
+Dextrans_0.05M Na2SO4_30_0.5000_0.0009000
+Dextrans Linear_Water_25_0.5000_0.0009780
+Dextrans Linear_Formamide_25_0.4900_0.0016500
+Ethyl Cellulose_Acetone_20_1.0500_0.0000151
+Ethyl Cellulose_Methanol_25_0.6500_0.0005230
+Hyaluronic Acid_0.2M NaCl_25_0.8160_0.0002280
+Hydroxyethyl Starch_0.05M NaNO3_30_0.2890_0.0063700
+Hydroxypropyl Cellulose_0.05M Na2SO4_30_1.1160_0.0000115
+Hydroxyethyl Cellulose_Water_25_0.8700_0.0000953
+Polyaryloxyphosphazene_THF_30_0.6490_0.00000119
+Polyacetals_HFIP/H2O 1/1.7+1% TFA_25_0.6900_0.0008700
+Polyacrylic Acid-Na Below Mw = 20,000_0.05M Na2SO4_30_0.5000_0.0017400
+Polyacrylic Acid - Na Below Mw = 20,000_0.05M Na2SO4_30_0.8600_0.0000400
+Polyacrylic Acid - Na_0.50M NaBr_15_0.6200_0.0005270
+Polyacrylic Acid - Na_2.00M NaOH_25_0.6400_0.0004220
+Polyacrylic Acid_1,4-dioxane_30_0.5000_0.0007600
+Polyacrylamides_0.05M Na2SO4_30_0.6600_0.0003730
+Polyacrylamides_Water_30_0.8000_0.0000631
+Polyacrylamides_0.15M Na2SO4 1%AA_35_0.6400_0.0004159
+Polyacrylonitrile_DMF_30_0.750_0.000393
+Polyacrylonitrile_DMF_30_0.750_0.000209
+Polyacrylonitrile_DMF_20_0.780_0.000177
+Polyacrylonitrile_DMF_80_0.450_0.012600
+Polyacrylonitrile_DMAc_35_0.767_0.000275
+Polyacrylonitrile_DMAc_50_0.764_0.000274
+Polyacrylonitrile_DMSO_50_0.758_0.000283
+Polyacrylonitrile_DMSO_140_0.750_0.000209
+Polyacrylonitrile_Y-butyro lactone_30_0.700_0.000342
+PBT Polyester_o-CP_25_0.915_0.0000622
+Poly 1,4 butadiene_THF_25_0.440_0.007600
+Poly 1,4 butadiene_THF_40_0.670_0.000578
+Poly 1,2 butadiene_THF_40_0.850_0.0000601
+Polybutadiene_THF_25_0.750_0.000236
+Polybutadiene 57% trans; 36% cis_THF_30_0.740_0.000256
+Polybutadiene 57% trans; 36% cis_Toluene_30_0.753_0.000294
+Polybutadiene_THF_30_0.715_0.000350
+Polybutadiene_ODCB_135_0.746_0.000270
+Polybutadiene_Chloroform_30_0.712_0.000428
+Polybutadiene_Toluene_30_0.714_0.000364
+Polybutadiene 95% cis; 2%-1,2_Toluene_30_0.725_0.000305
+Polybutadiene 95% cis; 2%-1,2_Benzene_30_0.715_0.000335
+Polybutyl methacrylate_Benzene_30_0.770_0.000400
+Polyethyl acrylate_Benzene_30_0.670_0.002770
+Polyethyl acrylate_Acetone_30_0.660_0.002000
+Polyethyl acrylate_Chloroform_30_0.680_0.003140
+Polyethyl acrylate_EtAcetate_30_0.660_0.002600
+Polycarbonate_THF_25_0.670_0.000490
+Polycarbonate_THF_25_0.700_0.000389
+Polycarbonate_Chloroform_25_0.740_0.000301
+Polycarbonate_Methylene Chloride_25_0.740_0.000299
+Polychloroprene_THF_25_0.830_0.0000418
+DMS_Toluene_30_0.7200_0.0000828
+DMS_Toluene_35_0.7030_0.0001258
+PET Polyester_HFIP_25_0.750_0.0039300
+PET Polyester_o-CP_25_0.658_0.0009631
+PET Polyester_TFA Acid_30_0.680_0.0004300
+Polydimethylsiloxane_ODCB_135_0.570_0.0003830
+Polydimethylsiloxane_Chloroform_30_0.770_0.0000540
+Polydimethylsiloxane_Toluene_30_0.731_0.0000624
+Polyethylene Glycol_0.05M Na2SO4_30_0.5700_0.0010400
+Polyethylene_TCB_135_0.706_0.000517
+Polyethylene LP_TCB_135_0.640_0.000954
+Polyethylene LP_Xylene_105_0.725_0.000510
+Polyethylene LP_Decalin_135_0.700_0.000620
+Polyethylene HP_Decalin_70_0.738_0.003873
+Polyethylene HP_Xylene_75_0.630_0.001350
+Polyethylene Oxides_0.05M Na2SO4_30_0.6930_0.0003650
+Polyethylene Oxides_Acetone_25_0.6700_0.0003200
+Polyethylene Oxides_Toluene_35_0.7000_0.0001450
+Polyethylene Oxides_Water_30_0.7800_0.0001250
+Polyisoprene_THF_25_0.735_0.000177
+Polyisoprene_Toluene_25_0.667_0.000250
+Polyisoprene-cis_Toluene_30_0.728_0.000200
+Polyisobutylene_Toluene_0_0.600_0.000400
+Polyisobutylene_Toluene_15_0.650_0.000240
+Polyisobutylene_Toluene_30_0.670_0.000200
+Polyisobutylene_Toluene_50_0.680_0.000200
+Polyisobutylene_Toluene_60_0.710_0.000135
+Polyisobutylene_Toluene_90_0.720_0.000126
+Polyisobutylene_THF_30_0.661_0.000197
+Polyisobutylene_Benzene_30_0.560_0.000610
+Polyisobutylene_Carbon Tet_30_0.680_0.000290
+Polyisobutylene_Cyclohexane_30_0.690_0.000276
+Polymethyl acrylate_Acetone_30_0.520_0.000282
+Polymethyl acrylate_Benzene_30_0.798_0.000036
+Polymethyl acrylate_Toluene_30_0.697_0.000078
+PMMA Low MW_THF_25_0.406_0.002110
+PMMA_Toluene_25_0.660_0.000154
+PMMA_Toluene_25_0.730_0.000071
+PMMA_Toluene_25_0.710_0.0000812
+PMMA_DMF (0.1 LiBr)_50_0.642_0.0002094
+PMMA_THF_30_0.690_0.000128
+PMMA High MW_THF_25_0.720_0.000075
+PMMA_Benzene_30_0.760_0.000940
+PMMA atactic_Toluene_30_0.710_0.000070
+PMMA atactic_Benzene_30_0.760_0.000052
+PMMA atactic_Acetonitrile_30_0.500_0.000393
+PMMA atactic_Acetone_30_0.700_0.000077
+PMMA isotactic_Acetone_30_0.630_0.000230
+PMMA isotactic_Benzene_30_0.760_0.000052
+Poly(methacrylic acid)_Methanol_26_0.510_0.002420
+Poly(methyacrylic acid)_2M NaNO3_25_0.650_0.000449
+Polypropylene Glycol_THF_30_0.585_0.0006200
+Polypropylene_TCB_145_0.750_0.0001370
+Polypropylene_Decalin_135_0.770_0.0001580
+Polypropylene_TCB_135_0.800_0.0000834
+Polypropylene iso_TCB_145_0.760_0.0001560
+Polypropylene iso_TCB_130_0.760_0.0001520
+Polypropylene atactic_Decalin_135_0.770_0.001580
+Polypropylene atactic_TCB_130_0.730_0.001960
+Polypropylene atactic_Toluene_30_0.725_0.000218
+Polypropylene atactic_Benzene_30_0.670_0.000338
+Polypropylene atactic_Cyclohexane_30_0.760_0.000209
+Polypropylene atactic_THF_30_0.780_0.000114
+Polypropylene syndiotactic_Heptane_30_0.710_0.000312
+Polystyrene (linear)_THF_25_0.706_0.000160
+Polystyrene (linear)_THF_25_0.700_0.000160
+Polystyrene (linear) Low MW_THF_30_0.428_0.001700
+Polystyrene anionic_THF_30_0.712_0.000128
+Polystyrene (linear)_Toluene_20_0.722_0.000112
+Polystyrene (linear)_Toluene_30_0.750_0.000088
+Polystyrene (iso)_Toluene_30_0.725_0.000110
+Polystyrene (linear)_Chloroform_30_0.760_0.000720
+Polystyrene (linear)_Cyclohexane_30_0.500_0.008600
+Polystyrene (linear)_TCB_140_0.653_0.000232
+Polystyrene atactic_Benzene_30_0.730_0.000115
+Polystyrene atactic_Toluene_30_0.725_0.000110
+Polystyrene atactic_Chloroform_30_0.794_0.000049
+Polystyrene atactic_Decalin_30_0.530_0.000610
+Polystyrene atactic_Dichloroethane_30_0.740_0.000084
+Polystyrene isotactic_Benzene_30_0.735_0.000106
+Polystyrene isotactic_Chloroform_30_0.734_0.000259
+Polystyrene isotactic_Toluene_30_0.725_0.000100
+Polystyrene (comb)_THF_23_0.560_0.000220
+Polystyrene (star)_THF_23_0.740_0.000035
+Poly a-methylstyrene_THF_30_0.690_0.000150
+Polystyrene Sulfonate_0.05M Na2SO4_30_0.7000_0.0001250
+Polystyrene Sulfonate_0.10M NaCl_25_0.6800_0.0001780
+Polystyrene Sulfonate_0.05M NaCl_25_0.7200_0.0001390
+Polysulfone_DMF_80_0.532_0.000820
+Pullulans_0.05M Na2SO4_30_0.6650_0.0002010
+Natural Rubber_THF_25_0.7900_0.0001090
+Natural Rubber_Benzene_30_0.7400_0.0001850
+Nylon 6_90% HCOOH_25_0.7000_0.0014500
+Nylon 6_m-cresol_25_0.6200_0.0032000
+Nylon 6/6_90% HCOOH_25_0.6800_0.0011000
+Nylon 6/6_90% HCOOH_25_0.7200_0.0011000
+Nylon 6/6_o-chlorophenol_25_0.6200_0.0016800
+Nylon 6/6_m-cresol_25_0.6100_0.0024000
+Nylon 12_m-cresol_25_0.7400_0.0008100
+Nylon 12_H2SP4 96%_25_0.6400_0.0006940
+Polyvinyl Alcohol 100%H_0.1M Na2SO4_35_0.5700_0.0012620
+Polyvinyl Alcohol 100%H_0.1M Na2SO4_35_0.5670_0.0013489
+Polyvinyl Alcohol 100%H_0.1M Na2SO4_35_0.5600_0.0013710
+Polyvinyl Alcohol 100%H_0.1M Na2SO4_35_0.5690_0.0012530
+Polyvinyl Alcohol 100%H_0.1M Na2SO4_35_0.5170_0.0020559
+Polyvinyl Alcohol 88%H_H2O/CH3CN (80/20)_35_0.5300_0.0022909
+Polyvinyl Alcohol 88%H_H2O/CH3CN (80/20)_35_0.5400_0.0016218
+Polyvinyl Alcohol 88%H_H2O/CH3CN (80/20)_35_0.5200_0.0021396
+Polyvinyl Alcohol 88%H_H2O/CH3CN (80/20)_35_0.6500_0.0006456
+Polyvinyl Alcohol 98%H_0.05M Na2SO4_30_0.5300_0.0017400
+Polyvinyl Alcohol_Water_30_0.6400_0.0005430
+Polyvinyl Alcohol_Water_30_0.6400_0.0006660
+Polyvinyl Alcohol_Water_80_0.5600_0.0009400
+Poly 2-Vinylpyridine_0.1M Na formate_30_0.9300_0.0000250
+Poly(vinylpirrolidone)_Chloroform_25_0.6400_0.0001940
+Poly(vinylpirrolidone)_MeOH_30_0.6500_0.0002300
+Poly(vinylpirrolidone)_MeOH/H2O 1:1 0.1M LiNO3_30_0.6500_0.0001320
+Poly(vinylpirrolidone)_0.05M Na2SO4_25_0.7480_0.0001127
+Poly(vinylpirrolidone)_Water_25_0.5500_0.0005650
+Poly(vinylpirrolidone)_Water_30_0.5900_0.0003930
+PVCl_THF_25_0.766_0.000163
+PVCl_THF_25_0.776_0.000163
+PVCl_THF_30_0.770_0.000150
+PVCl_THF_30_0.830_0.000833
+PVCl_Cyclohexane_25_0.780_0.000138
+PVCl_Chlorobenzene_30_0.590_0.000712
+PVCl_Cyclohexane_30_0.770_0.000163
+Polyvinyl butyrate_Benzene_30_0.735_0.000112
+Polyvinyl methyl ether_Benzene_30_0.600_0.000760
+PVBr_THF_25_0.640_0.000159
+PVAc Linear_THF_25_0.700_0.000160
+PVAc Linear_THF_25_0.791_0.000051
+PVAc Branched_THF_30_0.630_0.000350
+PVAc Branched_Acetone_25_0.680_0.000214
+PVAc Branched_Acetone_30_0.720_0.000102
+PVAc Branched_Methanol_25_0.590_0.000380
+PVAc Branched_Methanol_30_0.600_0.000314
+PVAc Branched_Toluene_25_0.530_0.001080
+PVAc Branched_Benzene_30_0.620_0.000563
+PVAc Branched_Acetonitrile_30_0.620_0.000415
+PVAc Branched_Ethyl Formate_30_0.650_0.000320
+PVAc Branched_Chloroform_25_0.720_0.000203
+Poly THF_Toluene_28_0.780_0.000251
+Poly THF_Ethyl Acetate_30_0.560_0.000422
+SBR (25%S)_THF_25_0.693_0.000410
+SBR (28% Sytrene)_THF_25_0.693_0.000451
+SBR, Buna-S, GR-S_Toluene_25_0.667_0.000525
+SBR, Buna-S, GR-S_Toluene_30_0.710_0.000379
+SBR, Buna-S, GR-S_Cyclohexane_30_0.700_0.000316
+SBR, Linear Fract_Toluene_30_0.740_0.000214
+SBR, Branched Fract_Toluene_30_0.480_0.005350
+Xanthan_0.1M NaCl_25_1.140_0.0000017
+Xanthan_0.1M NaNO3, 0.1% Et. Glycol_30_1.1000_0.0037024
